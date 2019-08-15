@@ -33,7 +33,7 @@ disqus:
   shortname:
 
 # Miscellaneous
-favicon:
+favicon: /assets/favicon.ico
 
 # avatar
 sidebar_background: /assets/bg.jpg
