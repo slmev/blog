@@ -78,4 +78,5 @@ theme: hexo-theme-icalm
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repo: root@47.103.119.182:blog.git
