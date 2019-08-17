@@ -90,10 +90,50 @@ live2d:
   tagMode: false
   debug: false
   model:
-#    use: live2d-widget-model-shizuku
+#    校服学长
 #    use: live2d-widget-model-chitose
+#    持剑腾云绿衣男
 #    use: live2d-widget-model-gf
-     use: live2d-widget-model-epsilon2_1
+#    短发休闲装小姐姐
+#    use: live2d-widget-model-epsilon2_1
+#    没有用
+#     use: live2d-widget-model-haru/01
+#    没有用
+#     use: live2d-widget-model-haru/02
+#    水手服小男孩
+#     use: live2d-widget-model-haruto
+#    校服小姐姐
+#     use: live2d-widget-model-hibiki
+#    黑猫
+#     use: live2d-widget-model-hijiki
+#    黑长直休闲装小姐姐
+#     use: live2d-widget-model-izumi
+#    水手服小女孩
+#     use: live2d-widget-model-koharu
+#    初音
+#     use: live2d-widget-model-miku
+#    科技小男孩
+#     use: live2d-widget-model-ni-j
+#    妖族小女孩
+#     use: live2d-widget-model-nico
+#    双尾卷发小女孩
+#     use: live2d-widget-model-nietzsche
+#    粉色双尾小女孩
+#     use: live2d-widget-model-nipsilon
+#    黑帽小女孩
+#     use: live2d-widget-model-nito
+#    认真听讲的小姐姐
+#     use: live2d-widget-model-shizuku
+#    白猫
+     use: live2d-widget-model-tororo
+#    学生装萝莉
+#     use: live2d-widget-model-tsumiki
+#    黄色双尾小女孩
+#     use: live2d-widget-model-unitychan
+#    狗在碗中坐，锅从天上来
+#     use: live2d-widget-model-wanko
+#    制服小姐姐
+#     use: live2d-widget-model-z16
   display:
     position: right
     width: 150
