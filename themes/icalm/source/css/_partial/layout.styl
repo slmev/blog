@@ -20,13 +20,14 @@ a
     text-decoration: none
     color: $link_color_d
     border-bottom: 1px $link_color_d solid
+    word-break: break-word
     &:hover
         color: $link_color_h
         border-bottom: 1px $link_color_h solid
 
 figure.highlight
     display: block
-    width: 92%
+    //width: 92%
     margin: auto
     overflow-x: auto
 
@@ -49,6 +50,14 @@ figure.highlight, .code, code
     padding: 16px
     background-color: #f6f8fa
     border-radius: 3px
+
+code {
+    background-color: rgba(27,31,35,.05);
+    border-radius: 3px;
+    font-size: 85%;
+    margin: 0;
+    padding: .2em .4em;
+}
 
 img
     max-width: 100%
